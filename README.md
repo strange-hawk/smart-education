@@ -1,1 +1,1 @@
-# smart-eucation
+# smart-education
